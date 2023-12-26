@@ -1,1 +1,1 @@
-# Python-Mastermind
+# Mastermind
