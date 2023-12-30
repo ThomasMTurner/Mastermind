@@ -1,3 +1,0 @@
-code red blue yellow green
-player computer
-
