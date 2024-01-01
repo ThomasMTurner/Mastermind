@@ -1,5 +1,4 @@
 # Mastermind
-Delo
 
 ## Overview
 
